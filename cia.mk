@@ -1,7 +1,7 @@
 ### Virtual Console repacking stuff
 
 vc_dir := vc
-vc_name := pokecrysalvc
+vc_name := pokecrystalvc
 
 vc_titleid := 0004000000172800
 vc_rom := $(vc_dir)/rom
